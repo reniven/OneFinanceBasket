@@ -1,0 +1,141 @@
+Portfolio Summary Report
+===============================================================================================================================
+Portfolio  Owner                Manager                       Fees     Commisions  Weighted Risk         Return          Total
+PT002      Neal, Maryjane       Le,Eric              $      150.00  $      241.16         0.2480  $    12057.80  $    55875.44
+PA100      Scholl, Tommy        Field, Joseph        $      100.00  $        1.27         0.5755  $       63.73  $      425.12
+PH200      Kaufmann, James      Tran, Mickey         $       20.00  $       41.77         0.0443  $      835.44  $    17341.03
+PT300      Johnson, Edward      Braswell, Verna      $       20.00  $    11679.92         1.0090  $   233598.37  $   964196.93
+PT003      Baker, David         Weissmuller, Sabrina $      100.00  $      171.58         0.1606  $     8579.21  $    36455.23
+PS004   Squarepants, Spongebob  Flores, Molly        $      150.00  $      107.68         0.1756  $     5384.09  $    61451.46
+PF300   Squarepants, Spongebob  K'Ung, Lan           $        0.00  $        0.00         0.0000  $      0.0000  $        0.00
+PF010      Kaufmann, James      Russell, Heidi       $      150.00  $      181.17         0.7804  $     9058.66  $   207773.82
+PH700      Neal, Maryjane       Maurice, Terry       $       50.00  $        0.89         0.0000  $       41.94  $     2600.18
+PC230     Overes, Suleman       Baker, David         $       20.00  $      309.56         0.8291  $     6191.20  $   190027.34
+                                                     -------------------------------------------------------------------------
+                                              Totals $      760.00  $    12735.00         3.8255  $   275810.44  $  1536146.55
+
+
+
+Portfolio Details
+================================================================================================================
+Portfolio PT002
+------------------------------------------
+Owner:          Neal, Maryjane
+Manager:        Le, Eric
+Beneficiary:    Baker, David
+Assets 
+Code        Asset                            Return Rate        Risk     Annual Return       Value
+CMRO1592    Apple                                  8.89%        0.22  $      229.01  $     2575.00
+O3I4JTVJ    CD                                     2.63%        0.00  $       79.03  $     3000.25
+EIEIO12     Old McDonald Farm                     23.36%        0.26  $    11749.76  $    50300.19
+                                                        --------------------------------------------
+                                                Totals        1.0962  $    12057.80  $    55875.44
+
+Portfolio PA100 
+------------------------------------------
+Owner:          Scholl, Tommy
+Manager:        Field, Joseph
+Beneficiary:    Kaufmann, James
+Assets 
+Code       Asset                            Return Rate         Risk      Annual Return       Value                            
+GH59T5U3   Intel Corp                            18.46%         1.23   $       27.09  $      146.72
+CH1LL0     Netflix Inc                           13.16%         0.23   $       36.64  $      278.40
+                                                        --------------------------------------------
+                                                Totals        1.1576   $       63.73  $      425.12
+
+Portfolio PH200
+------------------------------------------
+Owner:          Castro, Starlin
+Manager:        Tran, Mickey
+Beneficiary:    none
+Assets 
+Code       Asset                           Return Rate          Risk     Annual Return       Value
+NLU123     College Savings                       3.56%          0.00  $      498.68  $    14000.23
+CH1LL0     Netflix Inc                          10.08%          0.23  $      336.76  $     3340.80
+                                                        --------------------------------------------
+                                                Totals        0.2578  $      835.44  $    17341.03
+
+Portfolio PT300
+------------------------------------------
+Owner:          Johnson, Edward
+Manager:        Braswell, Verna
+Beneficiary:    none
+Assets 
+Code       Asset                           Return Rate          Risk     Annual Return       Value
+l2ASLDK5   Fells Wargo Building                 24.25%          1.01  $   233532.18  $   962888.53
+4L23JRI    Facebook Inc                          5.06%          0.88          66.19  $     1308.40
+                                                        --------------------------------------------
+                                                Totals        0.0000  $   233598.37  $   964196.93
+
+Portfolio PT003
+------------------------------------------
+Owner:          Baker, David
+Manager:        Weissmuller, Sabrina
+Beneficiary:    Squarepants, Spongebob
+Assets 
+Code       Asset                           Return Rate          Risk     Annual Return       Value
+2LK45J5L   401K                                  5.13%          0.00  $      103.42  $     2017.16
+l2ASLDK5   Fells Wargo Building                 24.61%          0.17  $     8475.79  $    34438.07
+                                                        --------------------------------------------
+                                                Totals        0.0000  $     8579.21  $    36455.23
+
+Portfolio PS004
+------------------------------------------
+Owner:          Squarepants, Spongebob
+Manager:        Flores, Molly
+Beneficiary:    none
+Assets 
+Code       Asset                           Return Rate          Risk     Annual Return       Value
+U54USDLJ   RothIRA                               8.33%          0.00  $      158.33  $     1900.98
+JLKOP13    Doofenshmirtz Inc                     4.21%          0.16  $     2126.16  $   50,550.48
+JFK12342   Spreetail                            34.44%          0.30  $     3099.60  $     9000.00
+                                                        --------------------------------------------
+                                                Totals        0.7745  $     5384.09  $    61451.46
+
+Portfolio PF300
+------------------------------------------
+Owner:          Squarepants, Spongebob
+Manager:        K'Ung, Lan 
+Beneficiary:    Kaufmann, James
+Assets 
+Code       Asset                           Return Rate          Risk    Annual Return         Value
+                                                        --------------------------------------------
+                                                Totals        0.0000  $     0.0000  $          0.00
+
+Portfolio PF010
+------------------------------------------
+Owner:          Kaufmann, James
+Manager:        Russell, Heidi
+Beneficiary:    Scholl, Tommy
+Assets 
+Code       Asset                            Return Rate         Risk     Annual Return       Value
+GH59T5U3   Intel Corp                            15.60%         1.23  $      131.63  $      843.64
+JLKOP13    Doofenshmirtz Inc                      4.08%         0.78  $     8423.06  $   206414.48
+BR8427AP   Cisco Systems Inc                     15.15%         0.31  $       47.23  $      311.80
+                                                        --------------------------------------------
+                                                Totals        0.6800  $     9058.66  $   207773.82
+
+Portfolio PH700
+------------------------------------------
+Owner:          Neal, Maryjane
+Manager:        Maurice, Terry
+Beneficiary:    none
+Assets 
+Code       Asset                           Return Rate          Risk     Annual Return       Value
+F324JWJ    Life Savings                          1.61%          0.00  $        41.94 $     2600.18
+                                                        --------------------------------------------
+                                                Totals        1.2800  $        41.94 $     2600.18
+
+Portfolio PC230
+------------------------------------------
+Owner:           Scholl, Tommy     
+Manager:         Overes, Suleman
+Beneficiary:     none
+Assets 
+Code       Asset                           Return Rate          Risk  Annual Return          Value
+SPR342     Chum Bucket                           3.54%          0.75  $     2925.79  $    82612.58
+DC2EF13    Seattle Grace                         3.04%          0.89  $     3265.41  $   107414.76
+                                                        --------------------------------------------
+                                                Totals        0.0000  $     6191.20  $   190027.34
+
+

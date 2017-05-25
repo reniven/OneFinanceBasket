@@ -1,0 +1,188 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+Porfolio Summary Report
+--------------------------------------------------------------------------------------------------------------------------------------
+Portfolio                      Owner                          Manager                        Fees                           Comissions                     Weighted Risk                  Return                         Total                         
+PF300                          Squarepants,  Spongebob         K'Ung,  Lan                   0.00                           0.00                           0.00                           0.00                           0.00                          
+PT002                          Neal,  Maryjane                Le, Eric                       150.00                         24193.20                       0.24                           1209660.00                     55875.44                      
+PA100                           Scholl,  Tommy                 Field,  Joseph                100.00                         1.27                           0.58                           63.73                          425.12                        
+PH200                           Kaufmann,  James               Tran,  Mickey                 20.00                          23198.04                       0.04                           463960.70                      17341.03                      
+PT300                          Johnson,  Edward               Braswell,  Verna               20.00                          1167030.61                     1.01                           23340612.11                    964196.93                     
+PT003                           Baker,  David                 Weissmuller,  Sabrina          100.00                         22685.60                       0.16                           1134279.98                     36455.23                      
+PS004                          Squarepants,  Spongebob        Flores,  Molly                 150.00                         117482.98                      0.29                           5874148.99                     61451.46                      
+PF010                           Kaufmann,  James               Russell,  Heidi               100.00                         16682.60                       0.78                           834130.04                      207258.12                     
+PH700                          Neal,  Maryjane                 Maurice,  Terry               50.00                          257.58                         0.00                           12878.78                       2600.18                       
+PC230                           Scholl,  Tommy                Overes,  Suleman               20.00                          30544.60                       0.96                           610891.96                      190027.33                     
+PT400                           Baker,  David                 Hsu,  Hsin                     100.00                         14648.99                       0.16                           732449.55                      31416.35                      
+PH230                           Scholl,  Tommy                Mullen,  Anna                  10.00                          119.07                         0.33                           2381.40                        6900.00                       
+PS303                           Kaufmann,  James              Bishara,  Nawaf                50.00                          682.42                         0.16                           34121.25                       8425.08                       
+PE230                           Baker,  David                 Bishara,  Nawaf                50.00                          5892.14                        0.86                           294606.97                      96883.90                      
+P2000                          Neal,  Maryjane                Welch,  Lyndsey                150.00                         888717.00                      1.28                           44435849.81                    1476086.47                    
+PJ209                          Johnson,  Edward                K'Ung,  Lan                   20.00                          6408.59                        0.59                           128171.80                      42401.83                      
+PB230                           Scholl,  Tommy                Welch,  Lyndsey                100.00                         4.15                           -0.34                          207.60                         944.33                        
+PB234                          Neal,  Maryjane                 Tran,  Mickey                 20.00                          15374.54                       0.87                           307490.72                      102666.32                     
+PD320                          Johnson,  Edward               Le, Eric                       100.00                         3114.65                        0.84                           155732.35                      46861.41                      
+PH320                          Johnson,  Edward                Field,  Joseph                50.00                          341.51                         0.00                           17075.64                       1969.25                       
+Totals                         1360.0                         2337379.5284507643             7.958871338394952E7            3350185.78432                 
+
+Portfolio Details
+--------------------------------------------------------------------------------------------------------------------------------------
+Portfolio: PF300
+Owner: LAKSFE
+Manager: 4L5K4J
+Beneficiary: 23lJAL
+Code       Asset      Return Rate Risk       Annual Return Value     
+--------------------------------------------------------------------------------------------------------------------------------------
+Portfolio: PT002
+Owner: 57IPQ9
+Manager: FVD101
+Beneficiary: REV455
+Code       Asset      Return Rate Risk       Annual Return Value     
+CMRO1592   Apple      D          0.22       229.01     2575.0    
+O3I4JTVJ   CD         D          0.00       40394.58   3000.25   
+EIEIO12    Old McDonald Farm D          0.26       1169036.42 50300.19  
+--------------------------------------------------------------------------------------------------------------------------------------
+Portfolio: PA100
+Owner: 931570
+Manager: 8E57R6
+Beneficiary: 23lJAL
+Code       Asset      Return Rate Risk       Annual Return Value     
+GH59T5U3   Intel Corp D          1.23       27.09      146.72    
+CH1LL0     Netflix Inc D          0.23       36.64      278.4     
+--------------------------------------------------------------------------------------------------------------------------------------
+Portfolio: PH200
+Owner: 23lJAL
+Manager: V1RT72
+Beneficiary: none
+Code       Asset      Return Rate Risk       Annual Return Value     
+NLU123     College Savings D          0.00       463623.94  14000.23  
+CH1LL0     Netflix Inc D          0.23       336.76     3340.7999999999997
+--------------------------------------------------------------------------------------------------------------------------------------
+Portfolio: PT300
+Owner: 56LJLK
+Manager: 01WR93
+Beneficiary: none
+Code       Asset      Return Rate Risk       Annual Return Value     
+l2ASLDK5   Fells Wargo Building D          1.01       23340545.92 962888.52807
+4L23JRI    Facebook Inc D          0.88       66.19      1308.4    
+--------------------------------------------------------------------------------------------------------------------------------------
+Portfolio: PT003
+Owner: REV455
+Manager: 43TY5U
+Beneficiary: LAKSFE
+Code       Asset      Return Rate Risk       Annual Return Value     
+2LK45J5L   401K       D          0.00       299373.09  2017.16   
+l2ASLDK5   Fells Wargo Building D          0.16       834906.90  34438.07325
+--------------------------------------------------------------------------------------------------------------------------------------
+Portfolio: PS004
+Owner: LAKSFE
+Manager: 56CG8W
+Beneficiary: none
+Code       Asset      Return Rate Risk       Annual Return Value     
+U54USDLJ   RothIRA    D          0.00       5666741.51 1900.98   
+JLKOP13    Doofenshmirtz Inc D          0.30       204307.88  50550.4848
+JFK12342   Spreetail  D          0.33       3099.60    9000.0    
+--------------------------------------------------------------------------------------------------------------------------------------
+Portfolio: PF010
+Owner: 23lJAL
+Manager: 34KDKE
+Beneficiary: 931570
+Code       Asset      Return Rate Risk       Annual Return Value     
+GH59T5U3   Intel Corp D          1.23       131.63     843.64    
+JLKOP13    Doofenshmirtz Inc D          0.78       833998.42  206414.4796
+--------------------------------------------------------------------------------------------------------------------------------------
+Portfolio: PH700
+Owner: 57IPQ9
+Manager: 411GJ5
+Beneficiary: none
+Code       Asset      Return Rate Risk       Annual Return Value     
+F324JWJ    Life Savings D          0.00       12878.78   2600.18   
+--------------------------------------------------------------------------------------------------------------------------------------
+Portfolio: PC230
+Owner: 931570
+Manager: 23L53T
+Beneficiary: none
+Code       Asset      Return Rate Risk       Annual Return Value     
+SPR342     Chum Bucket D          1.05       284271.18  82612.57620000001
+DC2EF13    Seattle Grace D          0.89       326620.78  107414.75670000001
+--------------------------------------------------------------------------------------------------------------------------------------
+Portfolio: PT400
+Owner: REV455
+Manager: 23LJFD
+Beneficiary: 57IPQ9
+Code       Asset      Return Rate Risk       Annual Return Value     
+EIEIO12    Old McDonald Farm D          0.16       724825.38  31186.1178
+NLU123     College Savings D          0.00       7624.17    230.23    
+--------------------------------------------------------------------------------------------------------------------------------------
+Portfolio: PH230
+Owner: 931570
+Manager: 01WK93
+Beneficiary: none
+Code       Asset      Return Rate Risk       Annual Return Value     
+JFK12342   Spreetail  D          0.33       2381.40    6900.0    
+--------------------------------------------------------------------------------------------------------------------------------------
+Portfolio: PS303
+Owner: 23lJAL
+Manager: 230FJA
+Beneficiary: 931570
+Code       Asset      Return Rate Risk       Annual Return Value     
+JLKOP13    Doofenshmirtz Inc D          0.16       34121.25   8425.0808 
+--------------------------------------------------------------------------------------------------------------------------------------
+Portfolio: PE230
+Owner: REV455
+Manager: 230FJA
+Beneficiary: none
+Code       Asset      Return Rate Risk       Annual Return Value     
+DC2EF13    Seattle Grace D          0.86       294606.97  96883.89820000001
+--------------------------------------------------------------------------------------------------------------------------------------
+Portfolio: P2000
+Owner: 57IPQ9
+Manager: LKJL5L
+Beneficiary: none
+Code       Asset      Return Rate Risk       Annual Return Value     
+2l34J3LE   Carlyle Offices D          1.30       43994153.88 1369678.9041
+23LK4LK2   United West Corporation D          1.08       441573.79  105120.064
+CMRO1592   Apple      D          0.22       122.14     1287.5    
+--------------------------------------------------------------------------------------------------------------------------------------
+Portfolio: PJ209
+Owner: 56LJLK
+Manager: 4L5K4J
+Beneficiary: LAKSFE
+Code       Asset      Return Rate Risk       Annual Return Value     
+CH1LL0     Netflix Inc D          0.23       36.64      278.4     
+DC2EF13    Seattle Grace D          0.59       128135.16  42123.43400000001
+--------------------------------------------------------------------------------------------------------------------------------------
+Portfolio: PB230
+Owner: 931570
+Manager: LKJL5L
+Beneficiary: none
+Code       Asset      Return Rate Risk       Annual Return Value     
+BR8427AP   Cisco Systems Inc D          0.31       52.16      374.15999999999997
+TY50QW29   Micron Technology Inc D          -0.77      155.44     570.17    
+--------------------------------------------------------------------------------------------------------------------------------------
+Portfolio: PB234
+Owner: 57IPQ9
+Manager: V1RT72
+Beneficiary: REV455
+Code       Asset      Return Rate Risk       Annual Return Value     
+DC2EF13    Seattle Grace D          0.87       307412.49  101096.24160000001
+4L23JRI    Facebook Inc D          0.88       78.22      1570.08   
+--------------------------------------------------------------------------------------------------------------------------------------
+Portfolio: PD320
+Owner: 56LJLK
+Manager: FVD101
+Beneficiary: none
+Code       Asset      Return Rate Risk       Annual Return Value     
+JFK12342   Spreetail  D          0.33       637.20     1800.0    
+SPR342     Chum Bucket D          0.86       155095.15  45061.4052
+--------------------------------------------------------------------------------------------------------------------------------------
+Portfolio: PH320
+Owner: 56LJLK
+Manager: 8E57R6
+Beneficiary: none
+Code       Asset      Return Rate Risk       Annual Return Value     
+JPII22     Gerber     D          0.00       17075.64   1969.25   
+>>>>>>> jjfield3
+=======
+>>>>>>> TranM
